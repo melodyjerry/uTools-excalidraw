@@ -1,0 +1,27 @@
+{
+    "pluginName": "Excalidraw 在线绘图白板",
+    "version": "0.0.1",
+    "description": "Excalidraw，一款超级好用的在线绘图工具，非常轻量，轻松绘制具有手绘风格的图形",
+    "author": "MelodyJerry",
+    "homepage": "https://blog.csdn.net/weixin_43438052",
+
+    "preload": "preload.js",
+    "logo": "logo.png",
+	"features": [
+		{
+		  "code": "excalidraw",
+		  "explain": "快速创建代码图像的工具，让你的代码分享逼格更高、排版更直观",
+			"cmds":[
+				"excalidraw", 
+				"绘图工具",
+				"在线白板", 				
+				"在线绘图",
+				"Excalidraw在线绘图白板",
+				{
+					"type": "over",
+					"label": "Excalidraw 在线绘图白板"
+				}
+			]
+		}
+	]
+}
