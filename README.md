@@ -15,16 +15,23 @@
 
 ![](https://gitee.com/melodyjerry163/filebed/raw/master//20210517-210106-0007.png)
 
-## todo：
+## todo
 
 - [ ] 将到处的图片or其他格式文件直接复制到剪切板
 - [ ] 生成的多人协作链接直接复制到剪切板
+- [x] 窗体可以修改尺寸
 - [ ] 待续……
 
+## changeLog
 
-## changeLog：
+1. v0.0.2：
 
-1. v0.0.1：
+- 允许窗体为“改变尺寸”、“全屏运行”
+
+2. v0.0.1：
 
 - 完成基础窗体
 
+## 赞赏
+
+<img src="https://gitee.com/melodyjerry163/filebed/raw/master/小槑收款码-MelodyJerry.png" alt="收款码-MelodyJerry.png" style="zoom:50%;" />
